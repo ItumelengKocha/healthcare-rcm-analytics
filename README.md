@@ -71,5 +71,17 @@ Aggregates active, uncollected balances across non-closed AR statuses (`On Hold`
 
 
 ###  Python Data Analysis
-Exploratory analysis of healthcare claims data using Python and Pandas, including data inspection, filtering, aggregation, and analysis.
- **[View the Python Pandas Notebook](./Healthcare_Python_Intro.ipynb)**
+
+This notebook documents my early hands-on journey with Python for healthcare data analysis. I started with Python fundamentals and gradually applied what I learned to the healthcare claims dataset used in this project.
+
+Topics explored include:
+- Python fundamentals
+- Variables and data types
+- Lists and dictionaries
+- Conditional logic
+- Functions
+- Pandas
+- DataFrame inspection
+- Filtering and basic data analysis
+
+[**View the Python Pandas Notebook →**](./Healthcare_Python_Intro.ipynb)
