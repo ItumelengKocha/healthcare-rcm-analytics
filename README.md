@@ -63,10 +63,13 @@ Aggregates active, uncollected balances across non-closed AR statuses (`On Hold`
 ### Setup Steps
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/ItumelengKocha/healthcare-rcm-analytics.git](https://github.com/your-username/healthcare-rcm-analytics.git)
+   git clone [https://github.com/ItumelengKocha/healthcare-rcm-analytics.git](https://github.com/ItumelengKocha/healthcare-rcm-analytics.git)
 
 ###  Interactive Tableau Dashboard
 **[View the Live Interactive Tableau Dashboard Here](https://public.tableau.com/views/RCM_17852672234410/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3526ff7c-f051-497f-a340-60cc73e2cde0" />
+
 
 ###  Python Data Analysis
+Exploratory analysis of healthcare claims data using Python and Pandas, including data inspection, filtering, aggregation, and analysis.
  **[View the Python Pandas Notebook](./Healthcare_Python_Intro.ipynb)**
