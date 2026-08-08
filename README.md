@@ -65,3 +65,8 @@ Aggregates active, uncollected balances across non-closed AR statuses (`On Hold`
    ```bash
    git clone [https://github.com/ItumelengKocha/healthcare-rcm-analytics.git](https://github.com/your-username/healthcare-rcm-analytics.git)
 
+###  Interactive Tableau Dashboard
+**[View the Live Interactive Tableau Dashboard Here](https://public.tableau.com/views/RCM_17852672234410/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+###  Python Data Analysis
+ **[View the Python Pandas Notebook](./Healthcare_Python_Intro.ipynb)**
